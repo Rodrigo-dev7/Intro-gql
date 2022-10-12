@@ -7,7 +7,7 @@
     "dev": "npx nodemon src/index.js"
   },
   "dependencies": {
-    "apollo-server": "^2.13.1",
+    "apollo-server": "^2.25.4",
     "graphql": "^15.0.0"
   },
   "devDependencies": {
